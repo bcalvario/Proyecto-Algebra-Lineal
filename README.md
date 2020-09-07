@@ -1,1 +1,1 @@
-# Proyecto-Algebra-Lineal
+# Proyecto Álgebra Lineal
